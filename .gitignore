@@ -1,0 +1,40 @@
+# === Core engine (PRIVATE — never push to public repo) ===
+railmind/
+viz/
+run.py
+railmind_v2.py
+pyproject.toml
+CLAUDE.md
+
+# === Documentation (PRIVATE) ===
+docs/
+PROJECT_STRUCTURE.md
+
+# === Output artifacts ===
+output/
+*.gif
+!public/assets/*.gif
+*.png
+*.log
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Claude Code / EF Memory tooling ===
+.memory/
+.claude/
+
+# === Environment ===
+.env
+.env.*
