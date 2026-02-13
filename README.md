@@ -12,9 +12,9 @@
 
 ---
 
-<img src="public/assets/railmind_v2_demo.gif" alt="RailMind V2 Simulation" width="800"/>
+<img src="public/assets/railmind_territory_v2.gif" alt="RailMind Phase II — Territory Emergence" width="800"/>
 
-*V2 simulation: 125 neural units, 3 competing flows, 1000 cycles of persistent activity.*
+*Phase II: 3 Neural Flows spontaneously form balanced, stable territories on a 125-node energy grid. Cloud envelopes show territory boundaries; node size pulses with visit frequency.*
 
 </div>
 
@@ -33,16 +33,30 @@ Instead of static weights and fixed architectures, RailMind places autonomous ag
 | **Energy Zero-Sum** | Fixed energy budget per cycle. No inflation. Every step costs. |
 | **Dual-Timescale Memory** | Short-term "railroads" (fast, ephemeral) + long-term "rivers" (slow, geological). |
 | **Fatigue-Driven Dispersion** | Visited nodes become repulsive — flows are forced to explore, never settle. |
-| **Emergent Loops** | Self-sustaining circuits form spontaneously — the system's "working memory". |
+| **Emergent Territories** | Flows self-organize into balanced, stable spatial modules — no supervision required. |
 
-### What We've Demonstrated (V2, 125 units)
+### What We've Demonstrated
+
+#### Phase 1 — Persistent Activity (125 units, 1000 cycles)
 
 | Metric | Result |
 |--------|--------|
-| **Path entropy** | Stable at 91.7% of theoretical maximum — no collapse over 1000 cycles |
+| **Path entropy** | Stable at 91.7% of theoretical maximum — no collapse |
 | **Anti-monopoly** | Zero nodes monopolized; fatigue mechanism prevents clustering |
 | **Spontaneous loops** | ~6.6 loops/snapshot emerge and dissolve naturally |
 | **Dual-timescale separation** | Short-term (60-cycle half-life) and long-term (866-cycle) confirmed independent |
+
+#### Phase 2 — Territory Emergence (125 units, 5000 cycles) ✅ NEW
+
+| Metric | Result | Threshold |
+|--------|--------|-----------|
+| **Territory balance** | 0.78 (near-equal 40/41/44 nodes) | ≥ 0.5 |
+| **Territory compactness** | 0.96–0.98 (single connected region each) | ≥ 0.8 |
+| **Boundary stability (IoU)** | 0.75 (territories persist frame-to-frame) | ≥ 0.4 |
+| **Boundary flux** | 35% cross-territory traffic | [15%, 45%] |
+| **Flow separation** | > 0.97 (distinct spatial signatures) | ≥ 0.85 |
+
+Three competing flows, starting from identical conditions, spontaneously partition a 125-node grid into **three balanced, compact, stable territories** — with organized inter-territory communication. No labels, no supervision, no pre-defined regions.
 
 ---
 
@@ -79,12 +93,15 @@ Instead of static weights and fixed architectures, RailMind places autonomous ag
 
 **Key insight**: The system maintains persistent, non-equilibrium activity purely through the interplay of scarcity, memory, and fatigue. No external "keep-alive" signal is needed.
 
+In Phase 2, additional mechanisms — **gated conductance**, **crowding tax**, and **per-flow private memory** — drive flows to carve out exclusive territories. The result is a phase transition from a delocalized "gas" to a structured "liquid" with modular organization and cross-module communication.
+
 ---
 
 ## Roadmap
 
-- [x] **Phase 1** — Small-scale validation (5³ = 125 units) — persistent activity confirmed
-- [x] **Phase 2** — Module emergence — territorial specialization with 3 competing flows
+- [x] **Phase 1** — Small-scale validation (5³ = 125 units) — persistent activity confirmed ✅
+- [x] **Phase 2** — Territory emergence — 3 flows self-organize into balanced, stable spatial modules ✅
+- [ ] **Phase 2-A** — Content-vector activation paradigm (BCPNN learning, prototype selectivity)
 - [ ] **Phase 3** — Scaling to 10³ = 1000 units; parameter scaling laws
 - [ ] **Phase 4** — Functional specialization (heterogeneous node types: sensory, core, memory, drive)
 - [ ] **Phase 5** — Information-theoretic analysis (transfer entropy, integrated information Φ)
