@@ -2,9 +2,19 @@
 railmind/
 viz/
 run.py
+run_sweep.py
+run_topo_compare.py
+run_v1_collapse.py
+run_territory_diagnostic.py
+run_territory_gif.py
+viz_territory_diagnostic.py
 railmind_v2.py
 pyproject.toml
+
+# === Claude Code / Project guidance (PRIVATE) ===
 CLAUDE.md
+.claude/
+.memory/
 
 # === Documentation (PRIVATE) ===
 docs/
@@ -30,10 +40,6 @@ venv/
 # === OS ===
 .DS_Store
 Thumbs.db
-
-# === Claude Code / EF Memory tooling ===
-.memory/
-.claude/
 
 # === Environment ===
 .env

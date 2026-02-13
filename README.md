@@ -83,12 +83,13 @@ Instead of static weights and fixed architectures, RailMind places autonomous ag
 
 ## Roadmap
 
-- [x] **Phase 1** — Small-scale validation (5³ = 125 units) ✅
-- [ ] **Phase 2** — Scaling to 10³ = 1000 units; parameter scaling laws
-- [ ] **Phase 3** — Functional specialization (heterogeneous node types: sensory, core, memory, drive)
-- [ ] **Phase 4** — Information-theoretic analysis (transfer entropy, integrated information Φ)
-- [ ] **Phase 5** — Interactive visualization (Three.js / Unity frontend)
-- [ ] **Phase 6** — External stimulus interface (real data input → grid response)
+- [x] **Phase 1** — Small-scale validation (5³ = 125 units) — persistent activity confirmed
+- [x] **Phase 2** — Module emergence — territorial specialization with 3 competing flows
+- [ ] **Phase 3** — Scaling to 10³ = 1000 units; parameter scaling laws
+- [ ] **Phase 4** — Functional specialization (heterogeneous node types: sensory, core, memory, drive)
+- [ ] **Phase 5** — Information-theoretic analysis (transfer entropy, integrated information Φ)
+- [ ] **Phase 6** — Interactive visualization (Three.js / Unity frontend)
+- [ ] **Phase 7** — External stimulus interface (real data input → grid response)
 
 ---
 
