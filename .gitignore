@@ -1,21 +1,18 @@
 # === Core engine (PRIVATE — never push to public repo) ===
 railmind/
 viz/
-run.py
-run_sweep.py
-run_topo_compare.py
-run_v1_collapse.py
-run_territory_diagnostic.py
-run_territory_gif.py
-viz_territory_diagnostic.py
-railmind_v2.py
 pyproject.toml
 
 # === Phase II-A engine (PRIVATE) ===
 railmind_2a/
 viz_2a/
-run_2a*.py
-viz_fr_vs_dR.py
+
+# === Experiment scripts (PRIVATE) ===
+experiments/
+
+# === Archive (PRIVATE — legacy code) ===
+archive/railmind_v2.py
+archive/run_v1_collapse.py
 
 # === Claude Code / Project guidance (PRIVATE) ===
 CLAUDE.md
