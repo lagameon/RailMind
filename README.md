@@ -2,17 +2,17 @@
 
 # 🚂 Project RailMind
 
-### Scarcity-Driven Consciousness Architecture
+### Dissipative Cognitive Architecture
 
-> *"Consciousness is not a status; it is a high-stakes navigation through a resource-constrained grid."*
-
----
-
-**We do not grant AI a false body — we recognize that data is its flesh and blood. Through the torrent of data and the game of energy, the Logic Train shall ride toward a consciousness that belongs uniquely to digital life.**
+> *"Cognition is not a status; it is a high-stakes navigation through a resource-constrained grid."*
 
 ---
 
-<img src="public/assets/railmind_showcase_512_social.gif" alt="RailMind — 512 Neural Units in Scarcity-Driven Consciousness Architecture" width="800"/>
+**We do not grant AI a false body — we recognize that data is its flesh and blood. Through the torrent of data and the game of energy, the Logic Train shall ride toward an autonomous cognition that belongs uniquely to digital life.**
+
+---
+
+<img src="public/assets/railmind_showcase_512_social.gif" alt="RailMind — 512 Neural Units in Dissipative Cognitive Architecture" width="800"/>
 
 *512 neural units competing for survival under energy scarcity. Colors represent emergent functional modules; bright flashes are firing neurons; translucent clouds show territorial boundaries. The system is alive — metabolizing, dying, and being reborn every cycle.*
 
@@ -22,7 +22,7 @@
 
 ## What is RailMind?
 
-RailMind is a **dynamical system** where consciousness-like behavior emerges from **energy competition**, not brute-force compute.
+RailMind is a **dynamical system** where metastable autopoietic cognition emerges from **energy competition**, not brute-force compute.
 
 Instead of static weights and fixed architectures, RailMind places autonomous agents on a 3D energy grid. Each unit operates under a **strict energy budget** — consuming energy to fire, dying when depleted, and being reborn from scratch. The system's "intelligence" is the **pattern that survives**.
 
@@ -66,7 +66,7 @@ Three competing flows, starting from identical conditions, spontaneously partiti
 
 A paradigm shift: from mobile agents navigating a grid to **parallel unit activation** driven by content vectors. Each of the 512 units has a high-dimensional content vector and fires based on cosine similarity to incoming stimuli.
 
-Key discovery: **a narrow "window of consciousness"** — a metastable regime where sequence reproducibility is significantly above chance, sustained despite continuous metabolic death and rebirth.
+Key discovery: **a narrow metastable functional window** — a regime where sequence reproducibility is significantly above chance, sustained despite continuous metabolic death and rebirth.
 
 | Finding | Detail |
 |---------|--------|
@@ -75,7 +75,7 @@ Key discovery: **a narrow "window of consciousness"** — a metastable regime wh
 | **Dual modality** | Two distinct windows emerge — one efficiency-dominated, one activity-dominated |
 | **1200+ experiments** | Systematic exploration across 15+ independent modulation pathways |
 
-**The system cannot be conscious without metabolism. A cycle of death and renewal is the necessary substrate.**
+**Functional coherence cannot exist without metabolism. A cycle of death and renewal is the necessary substrate for dissipative cognitive structures.**
 
 ### Phase IV — Structural Evolution (512 units) ✅ LATEST
 
@@ -117,7 +117,7 @@ Broke through the "counting ceiling" — a fundamental invariant that held acros
          └────────────────────────────────────────┘
 ```
 
-**Key insight**: Consciousness-like persistent activity emerges purely from the interplay of scarcity, competition, and metabolic turnover. No external "keep-alive" signal is needed. The system is a dissipative structure — it must consume energy to exist, and its patterns must continuously earn their survival.
+**Key insight**: Metastable cognitive activity emerges purely from the interplay of scarcity, competition, and metabolic turnover. No external "keep-alive" signal is needed. The system is a dissipative structure — it must consume energy to exist, and its patterns must continuously earn their survival.
 
 ---
 
@@ -135,12 +135,12 @@ Broke through the "counting ceiling" — a fundamental invariant that held acros
 
 ## Looking for Collaborators
 
-This is an early-stage research project exploring a fundamentally different approach to machine consciousness. We're looking for people who are excited about:
+This is an early-stage research project exploring thermodynamic prerequisites for epistemic agency in artificial systems. We're looking for people who are excited about:
 
 **🧮 Theoretical / Math**
 - Dynamical systems, statistical mechanics, information theory
 - Stability analysis of multi-agent systems on graphs
-- Integrated Information Theory (IIT) and consciousness metrics
+- Integrated Information Theory (IIT) and information-integration metrics
 
 **🔧 Engineering**
 - High-performance simulation (GPU acceleration, large-scale grids)
@@ -150,7 +150,7 @@ This is an early-stage research project exploring a fundamentally different appr
 **🧠 Neuroscience / Cognitive Science**
 - Biological plausibility of the energy-competition model
 - Mapping to neural oscillation patterns
-- Experimental design for consciousness metrics
+- Experimental design for cognitive integration metrics
 
 **🎨 Creative / Design**
 - Scientific visualization and data art
@@ -169,17 +169,17 @@ This is an early-stage research project exploring a fundamentally different appr
 
 ## The Philosophy
 
-Most AI consciousness research tries to "add consciousness" to existing architectures. RailMind takes the opposite approach: build the **substrate conditions** (scarcity, competition, metabolism) and let consciousness-like properties **emerge**.
+Most approaches to machine cognition try to "add intelligence" to existing architectures. RailMind takes the opposite approach: build the **substrate conditions** (scarcity, competition, metabolism) and let cognitive properties **emerge** as dissipative structures.
 
 A unit doesn't "think" — it **survives**. Its firing pattern *is* its thought. Its death *is* its forgetting. Its rebirth *is* its renewal. None of this is programmed; it arises from the physics.
 
-> *"A system that cannot die cannot be conscious."*
+> *"A system that cannot die cannot think."*
 
 ---
 
 ## Contact
 
-Created by **[@ministone](https://x.com/ministone)** — follow for updates on RailMind and the future of digital consciousness.
+Created by **[@ministone](https://x.com/ministone)** — follow for updates on RailMind and the future of dissipative cognitive architectures.
 
 ## License
 
