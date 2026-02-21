@@ -30,7 +30,7 @@ Instead of static weights and fixed architectures, RailMind places autonomous ag
 
 | Principle | Description |
 |-----------|-------------|
-| **Energy Zero-Sum** | Fixed energy budget per cycle. No inflation. Every activation costs. |
+| **Energy Scarcity** | Fixed energy budget per cycle. No inflation. Every activation costs. |
 | **Metabolic Turnover** | Units die when energy is depleted. New units are born with random content. Memory must earn its survival. |
 | **Emergent Modules** | Functional groups self-organize through competitive energy allocation — no labels, no supervision. |
 | **Scarcity as Engine** | Resource limitation is not a constraint to overcome — it is the mechanism that drives all emergent behavior. |
@@ -100,7 +100,7 @@ Broke through the "counting ceiling" — a fundamental invariant that held acros
                   │                │
          ┌────────▼────────┐  ┌───▼──────────────┐
          │  Stimulus Input  │  │  Energy Budget    │
-         │  (3 prototypes)  │  │  (zero-sum)       │
+         │  (3 prototypes)  │  │  (fixed budget)    │
          └────────┬────────┘  └───┬──────────────┘
                   │                │
          ┌────────▼────────────────▼───────────────┐
