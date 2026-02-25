@@ -1,0 +1,34 @@
+# === Private engine code ===
+src/
+engines/
+scripts/
+
+# === Internal docs & config ===
+docs/
+*.md
+!README.md
+
+# === Output artifacts ===
+output/
+*.gif
+!public/assets/*.gif
+*.png
+*.log
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Environment ===
+.env
+.env.*
